@@ -24,7 +24,7 @@ Os resultados foram consolidados em um dashboard interativo desenvolvido no Powe
 - SQL
 - Power BI
   
-🔎 Análises Realizadas
+## 🔎 Análises Realizadas
 - Análise exploratória dos dados de chamadas;
 - Cálculo da taxa de chamadas perdidas;
 - Cálculo do tempo médio de espera;
