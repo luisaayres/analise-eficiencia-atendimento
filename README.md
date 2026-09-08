@@ -67,4 +67,4 @@ Em resumo, os resultados indicam que a maior parte dos operadores não apresento
 
 O arquivo .pbix contém o dashboard desenvolvido para análise dos indicadores de atendimento.
 
-[👉 Acessar o dashboard no Power BI](Análise de Desempenho dos Operadores.pbix)
+[👉 Acessar o dashboard no Power BI](analise-desempenho-operadores.pbix)
