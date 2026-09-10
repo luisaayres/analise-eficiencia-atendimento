@@ -19,10 +19,13 @@ Os resultados foram consolidados em um dashboard interativo desenvolvido no Powe
 - Propor recomendações para melhorar a eficiência do atendimento.
   
 ## 🛠️ Ferramentas e Tecnologias
-- Python
-- Pandas
-- SQL
 - Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Análise de Dados
+- Visualização de Dados
+- Business Intelligence (BI)
   
 ## 🔎 Análises Realizadas
 - Análise exploratória dos dados de chamadas;
