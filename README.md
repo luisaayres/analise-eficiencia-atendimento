@@ -22,8 +22,6 @@ Os resultados foram consolidados em um dashboard interativo desenvolvido no Powe
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
-- Análise de Dados
 - Visualização de Dados
 - Business Intelligence (BI)
   
